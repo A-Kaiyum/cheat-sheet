@@ -1,4 +1,4 @@
-> [!NOTE]
+> [!sfdfNOTEte]
 > Useful information that users should know, even when skimming content.
 
 > [!TIP]
